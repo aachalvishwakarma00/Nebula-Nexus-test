@@ -37,8 +37,6 @@ It contains some words for testing.
 
 4. Run the script again to see the modified content written back to the `apple.txt` file.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
